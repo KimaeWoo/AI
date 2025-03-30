@@ -126,4 +126,5 @@ draw_chessboard(solution)
 
 Solution: [1, 7, 4, 6, 8, 2, 5, 3]
 Fitness: 28
+
 ![image](https://github.com/user-attachments/assets/8125029e-c27f-4aa6-b1fb-050aeb74f0fa)
